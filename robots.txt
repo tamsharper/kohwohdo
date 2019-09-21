@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://nooceigeet.aissam.me/sitemap.xml
